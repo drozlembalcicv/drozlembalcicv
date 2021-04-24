@@ -34,7 +34,7 @@
 
 4.  Özlem Balcı, İbrahim Karaman, Ayşe Karaman; A Huge Anterior Urethral Diverticulum After Circumcision in a Child: An Unusual Complication of Disposable Plastic Circumcision Device; Journal of Urological Surgery, 2019;6(2):165-167
 
-5.  Karaman A, Balcı Ö, Uysal Ramadan S, Karaman İ. "Y-type urethral duplication presented with perianal fistula in an infant." Gazi Medical Journal 28: 58-60 <doi:http://dx.doi.org/10.12996/gmj.2017> (2017). [DOAJ, EMBASE, Scopus]
+5.  Karaman A, Balcı Ö, Uysal Ramadan S, Karaman İ. "Y-type urethral duplication presented with perianal fistula in an infant." Gazi Medical Journal 28: 58-60 doi:http://dx.doi.org/10.12996/gmj.2017 (2017).
 
 6.  Jason P. Sulkowski , Jennifer N. Cooper , Eileen M. Duggan , Ozlem Balci , Seema Anandalwar , Martin L. Blakely , Kurt Heiss , Shawn J. Rangel , Peter C. Minneci , Katherine J. Deans.' Early versus delayed surgical correction of malrotation in children with critical congenital heart disease' Journal of Pediatric Surgery 50 (2015) 86–91
 
@@ -45,7 +45,7 @@
 9.  Evaluation of 968 children with corrosive substance ingestion; Ibrahim Karaman, Orhan Koç, Ayse Karaman, Derya Erdogan, Yusuf Hakan Çavusoglu, Çagatay Evrim Afsarlar, Engin Yilmaz, Ahmet Ertürk, Özlem Balci, Ismet Faruk Özgüner Indian J Crit Care Med. 2015 Dec;19(12):714-8  
     doi: 10.4103/0972-5229.171377.
 
-10. D Erdogan, Ö Balcı, A Karaman, I Karaman, H Cavusoglu; Value of Preoperative Laboratory Tests in Elective Pediatric Outpatient Surgery; Research Article; Pediatrics Research International Journal, Vol. 2013 (2013), Article ID 589490, DOI: 10.5171/2013.589490;
+10. D Erdogan, Ö Balcı, A Karaman, I Karaman, H Cavusoglu; Value of Preoperative Laboratory Tests in Elective Pediatric Outpatient Surgery; Research Article; Pediatrics Research International Journal, Vol. 2013 (2013), Article ID 589490, DOI: 10.5171/2013.589490
 
 ### B) Ulusal Hakemli Degilerde Yayınlanan Makaleler
 
@@ -61,17 +61,17 @@
 
 6.  Balcı Ö, Karaman A, Şahin G, Karaman İ, Bozkurt C, Ertürk A, Çavuşoğlu YH, Yeşil Ş, Özgüner İF, Aycan Z, Erdoğan D. "Çocuklarda testis tümörleri: tek merkez deneyimi." Türkiye Çocuk Hastalıkları Dergisi DOI: 10.12956/tjpd.2015.130
 
-7.  Ertürk A, Karaman A, Balcı Ö, Karaman İ, Çavuşoğlu YH, Özgüner İF, Yağız B, Taşçı Yıldız Y, Erdoğan D. "Çocuklarda direkt batın grafisi ile ultrason bulgularının apandisit tanısındaki değeri" Türkiye Çocuk Hastalıkları Dergisi <DOI:10.12956/tjpd.2014.99> (2014).
+7.  Ertürk A, Karaman A, Balcı Ö, Karaman İ, Çavuşoğlu YH, Özgüner İF, Yağız B, Taşçı Yıldız Y, Erdoğan D. "Çocuklarda direkt batın grafisi ile ultrason bulgularının apandisit tanısındaki değeri" Türkiye Çocuk Hastalıkları Dergisi DOI:10.12956/tjpd.2014.99 (2014).
 
-8.  Ertürk A, Tuncer İS, Balcı Ö, Karaman İ, Karaman A, Afşarlar ÇE, Yılmaz E, Özgüner İF, Çavuşoğlu YH, Erdoğan D. "Çocuk apandisitlerinin tanısında pediatrik apandisit skoru ve laboratuvar bulgularının değeri" Türkiye Çocuk Hastalıkları Dergisi <DOI:10.12956/tjpd.2014.103> (2014).
+8.  Ertürk A, Tuncer İS, Balcı Ö, Karaman İ, Karaman A, Afşarlar ÇE, Yılmaz E, Özgüner İF, Çavuşoğlu YH, Erdoğan D. "Çocuk apandisitlerinin tanısında pediatrik apandisit skoru ve laboratuvar bulgularının değeri" Türkiye Çocuk Hastalıkları Dergisi DOI:10.12956/tjpd.2014.103 (2014).
 
-9.  Balcı Ö, Karaman A, Ertürk A, Karaman İ, Yılmaz E, Çavuşoğlu YH, Erdoğan D, Anayurt M, Özgüner İF. "Puberte öncesi kız çocuklarında labial füzyon" Türkiye Çocuk Hastalıkları Dergisi <DOI:10.12956/tjpd.2014.108> (2014).
+9.  Balcı Ö, Karaman A, Ertürk A, Karaman İ, Yılmaz E, Çavuşoğlu YH, Erdoğan D, Anayurt M, Özgüner İF. "Puberte öncesi kız çocuklarında labial füzyon" Türkiye Çocuk Hastalıkları Dergisi DOI:10.12956/tjpd.2014.108 (2014).
 
-10. Ö Balcı, YH Çavuşoğlu, D Erdoğan, S Apaydın, İ Karaman, ÇE Afşarlar, İF Özgüner. Wandering Spleen with Niemann-Pick Disease; Journal of Pediatric Diseases (DOI: 10.12956 / tjpd.2013.06).
+10. Ö Balcı, YH Çavuşoğlu, D Erdoğan, S Apaydın, İ Karaman, ÇE Afşarlar, İF Özgüner. Wandering Spleen with Niemann-Pick Disease; Journal of Pediatric Diseases (DOI: 10.12956/tjpd.2013.06).
 
 ### C) Uluslararası bilimsel toplantılarda sunulan ve bildiri kitabında (Proceedings) basılan bildiriler:
 
-1.  Yağız B, Balcı Ö, Karaman İ, Akman S, Özgüner İF, Erdoğan D, Ergün E, Maden HA, Karaman A. "Ele gelmeyen inmemiş testisde laparoskopik yaklaşım." Ulusal Çocuk Cerrahisi Kongresi ve 3. Uluslararası Pediatrik Endoskopik Cerrahi Grubu - Ortadoğu Bölümü Kongresi 24-27 Ekim 2018, İzmir [SB]
+1.  Yağız B, Balcı Ö, Karaman İ, Akman S, Özgüner İF, Erdoğan D, Ergün E, Maden HA, Karaman A. "Ele gelmeyen inmemiş testisde laparoskopik yaklaşım." Ulusal Çocuk Cerrahisi Kongresi ve 3. Uluslararası Pediatrik Endoskopik Cerrahi Grubu - Ortadoğu Bölümü Kongresi 24-27 Ekim 2018, İzmir 
 
 2.  Jason P Sulkowski, Jennifer N Cooper, Eileen M Duggan, Ozlem Balci, Seema Anandalwar, Martin L Blakely, Kurt Heiss, Shawn Rangel, Katherine J Deans, Peter C Minneci; Timing of Ladd's Procedure in Patients with Critical Congenital Heart Disease; APSA 45th Annual Meeting, May 29- June 1 2014, Phoenix, Arizona, USA
 
@@ -137,7 +137,7 @@
 
 14. Yağız B, Balcı Ö, Güngör Ö, Karaman İ, Uysal Ramadan S, Karaman A. "Apendiceal stump fistula presenting as late onset surgical site infection in a child." XVI. Balkan Congress of Radiology, October 4 and 6, 2018, Kuşadası, Turkey.
 
-15. Balcı Ö, Karaman A, Yağız B, Ergün E, Karaman İ. "Çocuklarda safra yolları perforasyonları." 36. Ulusal Çocuk Cerrahisi Kongresi ve 3. Uluslararası Pediatrik Endoskopik Cerrahi Grubu - Ortadoğu Bölümü Kongresi 24-27 Ekim 2018, İzmir [P]
+15. Balcı Ö, Karaman A, Yağız B, Ergün E, Karaman İ. "Çocuklarda safra yolları perforasyonları." 36. Ulusal Çocuk Cerrahisi Kongresi ve 3. Uluslararası Pediatrik Endoskopik Cerrahi Grubu - Ortadoğu Bölümü Kongresi 24-27 Ekim 2018, İzmir 
 
 16. Ergun E,Kara YA, Balcı Ö, B Yağız, S İspir Karalar, İF Özgüner. "Pediatrik femoral herni onarımında yeni teknik, tek portlu optik forceps yardımlılaparoskopik perkütanöz ekstraperitoneal onarım" 36. Ulusal Çocuk Cerrahisi Kongresi ve 3. Uluslararası Pediatrik Endoskopik Cerrahi Grubu - Ortadoğu Bölümü Kongresi 24-27 Ekim 2018, İzmir [P]
 

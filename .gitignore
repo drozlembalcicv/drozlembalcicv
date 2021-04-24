@@ -26,3 +26,7 @@ vignettes/*.pdf
 rsconnect/
 drozlembalcicv.Rproj
 .DS_Store
+cv-*
+manzana
+resume
+*.code-workspace
