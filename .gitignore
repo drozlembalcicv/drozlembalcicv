@@ -24,7 +24,6 @@ vignettes/*.pdf
 *.knit.md
 # Shiny token, see https://shiny.rstudio.com/articles/shinyapps.html
 rsconnect/
-drozlembalcicv.Rproj
 .DS_Store
 cv-*
 manzana
