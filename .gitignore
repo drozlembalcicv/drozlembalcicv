@@ -29,3 +29,6 @@ cv-*
 manzana
 resume
 *.code-workspace
+
+*.docx
+*.doc
